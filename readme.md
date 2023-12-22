@@ -52,7 +52,7 @@ example:
 
 > FscanSnipaste -f result.txt -m postgres
 
-![](IMG/612ecd15c3ff38c2203d2c41d009a6f.png)
+![](img/612ecd15c3ff38c2203d2c41d009a6f.png)
 
 **web**
 
